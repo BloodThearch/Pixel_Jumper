@@ -10,6 +10,9 @@ Download the game using the following command:
 git clone https://github.com/BloodThearch/Pixel_Jumper.git
 ```
 
+### Directly Run The Game
+After downloading the game, just run it by double clicking on `main.exe` inside the `Pixel_Jumper` directory.
+
 ### Requirements
 Python3 and pygame library.
 Python libraries can be installed using the following command:
