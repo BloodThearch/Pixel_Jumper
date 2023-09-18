@@ -2,7 +2,7 @@
 Platform game similar to google chrome's dinosaur game, made using pygame library.
 
 ### Screenshots
-![ss1](https://raw.github.com/BloodThearch/Pixel_Jumper/blob/main/screenshots/Capture.PNG)
+![ss1](https://github.com/BloodThearch/Pixel_Jumper/blob/main/screenshots/Capture.PNG)
 
 ### Donwnload
 Download the game using the following command:
